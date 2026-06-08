@@ -5,6 +5,8 @@ This project is set up to practice LLM fundamentals using clean code practices a
 ---
 
 ## Step 1: Setup and Connect to an LLM Model
+<details>
+<summary><b>Click to expand Step 1</b></summary>
 
 **Output File:** `Connection_Check.py`
 
@@ -45,6 +47,8 @@ Create a `.env` file in the root directory:
 ```env
 FOUNDRY_PROJECT_ENDPOINT=https://<your-project>.services.ai.azure.com/api/projects/<your-project-name>
 ```
+</details>
+
 
 ## Step 2: Create and Configure an AI Agent
 
@@ -100,3 +104,4 @@ Create or update your `.env` file:
 FOUNDRY_PROJECT_ENDPOINT=https://<your-project>.services.ai.azure.com/api/projects/<your-project-name>
 AGENT_NAME=my-agent-name
 ```
+</details>
