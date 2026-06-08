@@ -43,7 +43,7 @@ Authentication is handled automatically through Azure-supported methods such as:
 Create a `.env` file in the root directory:
 
 ```env
-FOUNDRY_PROJECT_ENDPOINT=https://<your-project>.services.ai.azure.com/api/projects/<your-project-name>
+FOUNDRY_PROJECT_ENDPOINT=https://<your-project>.services.ai.azure.com/api/projects/<your-project-name>```
 
 ## Step 2: Create and Configure an AI Agent
 
@@ -97,4 +97,4 @@ Create or update your `.env` file:
 
 ```env
 FOUNDRY_PROJECT_ENDPOINT=https://<your-project>.services.ai.azure.com/api/projects/<your-project-name>
-AGENT_NAME=my-agent-name
+AGENT_NAME=my-agent-name```
